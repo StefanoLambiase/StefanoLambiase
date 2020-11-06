@@ -10,7 +10,7 @@ During my free time i study programming languages and framework to improve my kn
 
 Others informations
 -----------
-- 🌱 I’m currently learning JavaScript, TypeScript and React Native.
+- 🌱 I’m currently learning **JavaScript**, **TypeScript** and **React Native**.
 - 📫 How to reach me: my email is _stefanolambiase7@gmail.com_.
 
 Some stats
