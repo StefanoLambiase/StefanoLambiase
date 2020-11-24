@@ -15,10 +15,12 @@ Others informations
 
 Some stats
 -----------
-![](https://komarev.com/ghpvc/?username=StefanoLambiase&color=red)
 
 [![GitHub metrics](https://metrics.lecoq.io/StefanoLambiase?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
 
+<p align="center">
+  <img src = "https://komarev.com/ghpvc/?username=StefanoLambiase&color=red">
+</p>
 <!--
 **StefanoLambiase/StefanoLambiase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
