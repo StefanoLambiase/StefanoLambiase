@@ -17,7 +17,7 @@ Some stats
 -----------
 ![](https://komarev.com/ghpvc/?username=StefanoLambiase&color=red)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoLambiase&hide=contribs,prs)
+[![GitHub metrics](https://metrics.lecoq.io/StefanoLambiase?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
 
 <!--
 **StefanoLambiase/StefanoLambiase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
