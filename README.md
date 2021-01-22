@@ -17,21 +17,20 @@ Some stats
 -----------
 
 [![GitHub metrics](https://metrics.lecoq.io/StefanoLambiase?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
+  
 
-<p align="center">
+<!-- Connections links part -->
+<h3 align = "center">Let's Connect ☕</h3>
+<p align = "center"> 
+  <a href = "https://www.linkedin.com/in/stefano-lambiase-1622621b9/" target="_blank">
+    <img src = "https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"  alt = "LinkedIn">
+  </a>
+  <a href = "https://www.instagram.com/stefano.lambiase7/" target = "_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt = "Instagram">
+  </a>
+</p>
+
+<!-- Visualization number part -->
+<p align = "center">
   <img src = "https://komarev.com/ghpvc/?username=StefanoLambiase&color=red">
 </p>
-<!--
-**StefanoLambiase/StefanoLambiase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
