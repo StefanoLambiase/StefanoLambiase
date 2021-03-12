@@ -12,7 +12,7 @@ Others informations
 -----------
 - 🖥 You can visit my website at this [link](https://stefanolambiase.github.io/).
 - 📫 How to reach me: my email is _stefanolambiase7@gmail.com_.
-- 🌱 I’m currently learning **JavaScript**, **TypeScript**, **React Native** and **Golang**.
+- 🌱 I’m currently learning **JavaScript**, **React Native**, **Golang**, and **DART**.
 
 Some stats
 -----------
