@@ -14,11 +14,6 @@ Others informations
 - 📫 How to reach me: my email is _stefanolambiase7@gmail.com_.
 - 🌱 I’m currently learning **JavaScript**, **React Native**, **Golang**, and **Dart**.
 
-Some stats
------------
-
-[![GitHub metrics](https://metrics.lecoq.io/StefanoLambiase?template=terminal&languages=1)](https://github.com/lowlighter/metrics)
-  
 
 <!-- Connections links part -->
 <h3 align = "center">Let's Connect ☕</h3>
