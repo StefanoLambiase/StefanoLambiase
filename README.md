@@ -12,7 +12,7 @@ During my free time i study programming languages and framework to improve my kn
 Others informations
 -----------
 - 🖥 You can visit my website at this [link](https://stefanolambiase.github.io/).
-- 📫 How to reach me: my email is _stefanolambiase7@gmail.com_.
+- 📫 How to reach me: my email is _slambiase@unisa.it_.
 - 🌱 I’m currently learning **Golang** and **Dart**.
 
 
