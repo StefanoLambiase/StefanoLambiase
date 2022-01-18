@@ -2,7 +2,8 @@
 
 About me
 -----------
-I am a master student at Computer Science departement of the University of Salerno (UNISA).
+I am a Ph.D. student at Computer Science departement of the University of Salerno (UNISA).
+My research interests are Human Aspects of Software Engineering and Software Project Management.
 
 During my third year at university I fell in love with Software Engineering. Cause that, i chose **Software Engineering and IT management** as curriculum at master degree.
 
