@@ -2,8 +2,9 @@
 
 About me
 -----------
-I am a Ph.D. student at Computer Science departement of the University of Salerno (UNISA).
-My research interests are Human Aspects of Software Engineering and Software Project Management.
+I am a **postdoctoral researcher** at the Computer Science Department of the University of Salerno (UNISA).
+My research interests are Human Aspects of Software Engineering, Software Project Management, Video Game Development, and Quantum Software Engineering.
+I tend to study software development from a **socio-technical** perspective, with the well-being of developers and stakeholders at the core of my final goals.
 
 During my third year at university I fell in love with Software Engineering. Cause that, i chose **Software Engineering and IT management** as curriculum at master degree.
 
@@ -13,7 +14,6 @@ Others informations
 -----------
 - 🖥 You can visit my website at this [link](https://stefanolambiase.github.io/).
 - 📫 How to reach me: my email is _slambiase@unisa.it_.
-- 🌱 I’m currently learning **Golang** and **Dart**.
 
 
 <!-- Connections links part -->
