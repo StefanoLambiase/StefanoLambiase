@@ -6,7 +6,7 @@ I am a **postdoctoral researcher** at the Computer Science Department of the Uni
 My research interests are Human Aspects of Software Engineering, Software Project Management, Video Game Development, and Quantum Software Engineering.
 I tend to study software development from a **socio-technical** perspective, with the well-being of developers and stakeholders at the core of my final goals.
 
-During my third year at university I fell in love with Software Engineering. Cause that, i chose **Software Engineering and IT management** as curriculum at master degree.
+During my third year at university, I fell in love with Software Engineering. Because of this, I chose Software Engineering and IT management as the curriculum for my master's degree.
 
 During my free time i study programming languages and framework to improve my knowledge. Particularly, I love the object orientation paradigm and back-end development.
 
